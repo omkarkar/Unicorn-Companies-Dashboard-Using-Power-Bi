@@ -1,1 +1,2 @@
 # Unicorn-Companies-Dashboard-Using-Power-Bi
+#Developed an interactive Dashboard analysis using PowerBI to visualize and analyze Unicorn Companies Dataset. Using PowerBI as a powerful tool to gain insights into various aspects of Unicorn Companies for Valuation, Funding of Companies in different Countries with #Investors, investing in which industry type is also analysed, Using different Charts, Cards and filters.
